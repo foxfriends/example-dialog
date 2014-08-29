@@ -21,4 +21,3 @@ for(i = first; i < last + 1; i++) {
         dialog_input(message[i, 0], message[i, 1]);
     }
 }
-
